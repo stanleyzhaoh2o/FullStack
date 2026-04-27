@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    margin-left: 25%;
+    width: 50%;
+}
+
+#first {
+  border: 5px solid white;
+  width: 76%;
+
+}
+
+
+#second {
+    font-family: "Libre Bakersville";
+    color: White;
+}
+#third {
+    color: white;
+}
