@@ -1,0 +1,20 @@
+div {
+    width:50%;
+    margin-left:25%;
+}
+
+body {
+    background-color:black;
+}
+
+#two {
+    border: 10px solid white;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color:white;
+}
