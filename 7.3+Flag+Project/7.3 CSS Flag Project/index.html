@@ -13,7 +13,7 @@
       position: relative;
     }
 
-    .flag div {
+    .flag > div {
       background-color: blue;
       position: absolute;
       margin-top: 125px;
@@ -21,11 +21,11 @@
       height: 300px;
     }
 
-    .flag div div {
+    .flag > div > div {
       background-color: white;
       position: absolute;
       margin-left: 350px;
-      margin-top: 50px;
+      top: 50px;
       width: 200px;
       height:200px;
       border-radius: 50%;
@@ -37,12 +37,14 @@
       color:white;
       font-size: 50px;
       position: absolute;
+      text-align: center;
     }
 
-    .flag > div div p {
+    .flag > div > div > p {
       color: black;
       position: absolute;
-      margin-left: 70px;
+      margin-left: 35px;
+
     }
   </style>
 </head>
